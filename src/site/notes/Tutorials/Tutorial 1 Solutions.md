@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/tutorials/tutorial-1-solutions/"}
 ---
 
-
 #### Author: Matthew J. Crossley
 
 #### Last update: 03 March, 2024
